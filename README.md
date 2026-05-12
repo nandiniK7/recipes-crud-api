@@ -1,30 +1,22 @@
 # Recipes CRUD API
 
-A RESTful CRUD API built using Node.js, Express.js, MongoDB, and Mongoose.
+Backend Deployed URL:
+https://recipes-crud-api-1.onrender.com
 
-## Features
+Postman Documentation:
+https://documenter.getpostman.com/view/51232224/2sBXqQEH9n
+
+Features:
 - Create Recipe
 - Get All Recipes
 - Get Recipe By ID
 - Update Recipe
 - Delete Recipe
 
-## Tech Stack
+Tech Stack:
 - Node.js
 - Express.js
 - MongoDB Atlas
 - Mongoose
+- Render
 - Postman
-
-## API Endpoints
-
-POST /api/recipes
-GET /api/recipes
-GET /api/recipes/:id
-PUT /api/recipes/:id
-DELETE /api/recipes/:id
-
-## Run Locally
-
-npm install
-npm run dev
